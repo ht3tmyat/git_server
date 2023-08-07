@@ -30,12 +30,12 @@
     "ios_appopen": "ca-app-pub-3940256099942544/5662855259"
   },
   "sponsorBet": {
-    "status": true,
+    "status": false,
     "text": "Sponsored by 1xBet",
     "adUrl": "https://1xbet.com"
   },
   "sponsorText": {
-    "status": true,
+    "status": false,
     "text": "Sponsored by 1xBet"
   },
   "sponsorBanner": {
