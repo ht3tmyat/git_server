@@ -20,7 +20,7 @@
     "passImg":""
   },
   "sponsorGoogle": {
-    "status": true,
+    "status": false,
     "fallback": true,
     "android_banner": "ca-app-pub-3940256099942544/6300978111",
     "android_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -39,7 +39,7 @@
     "text": "Sponsored by 1xBet"
   },
   "sponsorBanner": {
-    "status": true,
+    "status": false,
     "adImage": "https://channelmyanmar.org/wp-content/uploads/2023/06/vipclubmm.gif",
     "adUrl": "https://1xbet.com"
   },
