@@ -1,0 +1,38 @@
+{
+  "appDetails": {
+    "status": true,
+    "name": "FotLiv",
+    "color": "#fcba03",
+    "privacy": "https://google.com"
+  },
+  "serverDetails": {
+    "type": "json",
+    "url": "https://raw.githubusercontent.com/devhtetmyat/git_server/main"
+  },
+  "sponsorGoogle": {
+    "status": true,
+    "fallback": true,
+    "banner": "",
+    "inter": "",
+    "appopen": ""
+  },
+  "sponsorBet": {
+    "status": true,
+    "text": "Sponsored by 1xBet",
+    "adUrl": "https://1xbet.com"
+  },
+  "sponsorText": {
+    "status": true,
+    "text": "Sponsored by 1xBet"
+  },
+  "sponsorBanner": {
+    "status": true,
+    "adImage": "",
+    "adUrl": "https://1xbet.com"
+  },
+  "sponsorInter": {
+    "status": true,
+    "adImage": "",
+    "adUrl": ""
+  }
+}
