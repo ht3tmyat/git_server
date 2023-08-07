@@ -9,12 +9,25 @@
     "type": "json",
     "url": "https://raw.githubusercontent.com/devhtetmyat/git_server/main"
   },
+  "updateDetails":{
+    "version":1,
+    "force":true,
+    "url":""
+  },
+  "passDetails":{
+    "status":true,
+    "pass":"55555",
+    "passImg":""
+  },
   "sponsorGoogle": {
     "status": true,
     "fallback": true,
-    "banner": "",
-    "inter": "",
-    "appopen": ""
+    "android_banner": "",
+    "android_inter": "",
+    "android_appopen": "",
+    "ios_banner": "",
+    "ios_inter": "",
+    "ios_appopen": ""
   },
   "sponsorBet": {
     "status": true,
