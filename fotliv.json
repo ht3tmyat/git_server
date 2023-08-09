@@ -9,11 +9,6 @@
     "type": "json",
     "url": "https://raw.githubusercontent.com/devhtetmyat/git_server/main"
   },
-  "updateDetails":{
-    "version":1,
-    "force":true,
-    "url":"https://fotliv.com"
-  },
   "passDetails":{
     "status":true,
     "type":"pkg",
