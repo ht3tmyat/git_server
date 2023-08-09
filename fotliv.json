@@ -16,11 +16,12 @@
   },
   "passDetails":{
     "status":true,
+    "type":"key",
     "pass":"55555",
     "passImg":""
   },
   "sponsorGoogle": {
-    "status": false,
+    "status": true,
     "fallback": true,
     "android_banner": "ca-app-pub-3940256099942544/6300978111",
     "android_inter": "ca-app-pub-3940256099942544/1033173712",
