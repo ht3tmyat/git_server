@@ -12,7 +12,7 @@
   "updateDetails":{
     "version":1,
     "force":true,
-    "url":""
+    "url":"https://fotliv.com"
   },
   "passDetails":{
     "status":true,
