@@ -15,9 +15,9 @@
     "url":"https://fotliv.com"
   },
   "passDetails":{
-    "status":false,
+    "status":true,
     "type":"pkg",
-    "pass":"fb.com,com.fotliv.x",
+    "pass":"fb.com",
     "passImg":"https://raw.githubusercontent.com/devhtetmyat/git_server/main/LONG%20PRESS%20HERE.png",
     "url":"https://bingsport.com"
   },
